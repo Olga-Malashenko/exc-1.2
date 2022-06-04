@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/xnp21c2566j0em3k/branch/main?svg=true)](https://ci.appveyor.com/project/Olga/exc-1-2-93pod/branch/main)
